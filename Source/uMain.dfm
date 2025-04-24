@@ -43,4 +43,13 @@ object frmMain: TfrmMain
     TabOrder = 2
     OnClick = btnScanlineClick
   end
+  object btnGrey: TButton
+    Left = 816
+    Top = 80
+    Width = 75
+    Height = 25
+    Caption = 'Grey'
+    TabOrder = 3
+    OnClick = btnGreyClick
+  end
 end
